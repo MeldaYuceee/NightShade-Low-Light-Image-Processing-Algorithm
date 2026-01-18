@@ -79,7 +79,7 @@ NightShade/
 ![Low Light Input](sample_images/low_light_1.png)
 
 ### Output
-![Enhanced Output](output/enhanced_low_light_1.png)
+![Enhanced Output](./output/enhanced_output.jpg)
 
 Currently, NightShade processes **one image at a time**.
 This was intentional to keep the pipeline easy to inspect and debug
@@ -118,3 +118,4 @@ in building perception-aware autonomous systems.
 Small, real systems.
 Clear behavior.
 Steady progress over time.
+
